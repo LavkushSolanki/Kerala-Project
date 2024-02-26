@@ -1,0 +1,1 @@
+This is front end solution which we proposed for kerela government for there garbage management.In this site we have event sections and features sections which provides various helpful solutions for garbage management.This is just a prototype for the the problem.
